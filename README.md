@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Rashmi
 - 👀 I’m interested in working on frontend development roles
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently learning german
 - 📫 How to reach me : rashmiofficial09@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmib09&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;">
